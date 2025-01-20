@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'JustForFun Wiki',
+  title: ' Wiki',
   tagline: 'The official JustForFun Wiki Page 🔥',
   favicon: 'img/faviconjff.png',
 
