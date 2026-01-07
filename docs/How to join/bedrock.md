@@ -2,13 +2,13 @@
 sidebar_position: 2
 ---
 
-# Join our server - For Bedrock
+# Bedrock Edition (PC & Mobile)
 
 In this tutorial we will show you how to join our Minecraft server.
 
-:::danger This tutorial is only for Minecraft Bedrock Edition.
+:::danger This tutorial is outdated.
 
-If you plan on using Minecraft Java edition, please read the propper wiki page for that.
+Please create a ticket on our Discord server for help. We will update this page as soon as possible.
 
 :::
 
