@@ -6,3 +6,5 @@ sidebar_position: 1
 
 This is the starting page in the **JustForFun Wiki**.
 **Get started by selecting a page.**
+
+![Cat](/img/stuff/cat.jpg)

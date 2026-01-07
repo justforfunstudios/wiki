@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Join our server - For Java
+# Java Edition
 
 In this tutorial we will show you how to join our Minecraft server.
 
@@ -82,9 +82,9 @@ Hover your mouse over the server logo and click on the gray arror (as shown in t
 
 ### Troubleshooting
 
-- ** I get the "unknown host" error! ** -- Make sure you have typed the server adress correctly!
-- ** I get the "outdated client" error! ** -- Make sure you have installed the latest Minecraft Java version!
-- ** I get the "getsockopt" error! ** -- Try again and if it still doesn't works, make sure you have typed the server adress correctly!
-- ** I get the "timed out" or "connection throttled" ** -- Try again after a few seconds and if it still doesn't works, make sure you have typed the server adress correctly and your internet connection!
+- **I get the "unknown host" error!** -- Make sure you have typed the server adress correctly!
+- **I get the "outdated client" error!** -- Make sure you have installed the latest Minecraft Java version!
+- **I get the "getsockopt" error!** -- Try again and if it still doesn't works, make sure you have typed the server adress correctly!
+- **I get the "timed out" or "connection throttled"** -- Try again after a few seconds and if it still doesn't works, make sure you have typed the server adress correctly and your internet connection!
 
 ### If you are still getting errors, please create a support ticket on our Discord server!
