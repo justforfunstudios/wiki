@@ -6,12 +6,6 @@ sidebar_position: 2
 
 In this tutorial we will show you how to join our Minecraft server.
 
-:::danger This tutorial is outdated.
-
-Please create a ticket on our Discord server for help. We will update this page as soon as possible.
-
-:::
-
 ### Things you will need:
 
 - A stable internet connection
@@ -25,37 +19,24 @@ If you plan on using a console, please read the propper wiki page for that. You 
 
 :::
 
-Open  Minecraft Bedrock. It should look something like this: In my case, it's 1.21.51 (At the time you are reading this, the version/backround may be different.)
-
-![JustForFun Wiki](/img/mcbedrock/bedrock1.png)
+Open Minecraft Bedrock Edition. At the time you are reading this, the version/backround may be different. Don't worry, you can still follow these steps.
 
 Click on "Play"
 
-![JustForFun Wiki](/img/mcbedrock/bedrock2.png)
+![JustForFun Wiki](/img/mcbedrock2/img1.png)
 
 Click "Servers" 
 
-![JustForFun Wiki](/img/mcbedrock/bedrock3.png)
+![JustForFun Wiki](/img/mcbedrock2/img2.png)
 
-Scroll down using the scroll wheel (Ignore the default servers)
+Click "Add Servers" 
 
-![JustForFun Wiki](/img/mcbedrock/bedrock4.png)
+![JustForFun Wiki](/img/mcbedrock2/img3.png)
 
-Click on "Add server"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock5.png)
-
-For the server name add "JustForFun"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock6.png)
-
-For the server address, enter "bedrock.justforfunmc.net"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock7.png)
-
-For the server port, clear the default "19132" and enter "25862"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock8.png)
+Add the following details:
+- Server name: **JustForFun**
+- Server address: **bedrock.justforfunmc.net**
+- Port: 19132 (the default one)
 
 :::danger Make sure you enter the server address and port correct
 
@@ -63,26 +44,18 @@ Otherwise, you will not be able to connect to the server!
 
 :::
 
-Click "Save"
+Click "Add and play"
 
-![JustForFun Wiki](/img/mcbedrock/bedrock9.png)
+![JustForFun Wiki](/img/mcbedrock2/img4.png)
 
-Click "JustForFun"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock10.png)
-
-Click "Join server"
-
-![JustForFun Wiki](/img/mcbedrock/bedrock11.png)
-
-
-
+You're done! Have fun playing!
+If you are a new player on JustForFun, we recommend reading the "Getting started" tutorial.
 
 ### Troubleshooting
 
-- ** I get the "unknown host" error! ** -- Make sure you have typed the server address and port correctly!
-- ** I get the "outdated client" error! ** -- Make sure you have installed the latest Minecraft Bedrock version!
-- ** I get the "unknown world" error! ** -- Try again and if it still doesn't works, make sure you have typed the server adress and port correctly!
-- ** I get the "timed out" or "connection throttled" ** -- Try again after a few seconds and if it still doesn't works, make sure you have typed the server address and port correctly and your internet connection!
+- **I get the "unknown host" error!** -- Make sure you have typed the server address and port correctly!
+- **I get the "outdated client" error!** -- Make sure you have installed the latest Minecraft Bedrock version!
+- **I get the "unknown world" error!** -- Try again and if it still doesn't works, make sure you have typed the server adress and port correctly!
+- **I get the "timed out" or "connection throttled" error** -- Try again after a few seconds and if it still doesn't works, make sure you have typed the server address and port correctly and your internet connection!
 
 ### If you are still getting errors, please create a support ticket on our Discord server!
