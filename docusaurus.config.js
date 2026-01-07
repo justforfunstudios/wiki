@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/',
+                to: '/docs/intro',
               },
             ],
           },
@@ -125,8 +125,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Updates',
-                to: '/blog',
+                label: 'Website',
+                href: "https://justforfunmc.net",
               },
               {
                 label: 'GitHub',
@@ -135,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JustForFun. All rights reserved. Powered by Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} JustForFun. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
