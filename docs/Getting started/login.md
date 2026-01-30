@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Creating a password & Loging in
@@ -8,7 +8,9 @@ Due to JustForFun being a cracked (offline) server, we have to use a password-ba
 
 ### Creating a password
 
-If you're joining for the first time on JustForFun, you'll have to create a password. A repetive message will appear on the chat.![JustForFun Wiki](/img/getstarted/register.png)
+If you're joining for the first time on JustForFun, you'll have to create a password. A repetive message will appear on the chat.
+
+![JustForFun Wiki](/img/getstarted/register.png)
 
 Press **T** on your keyboard to open the chat. Type **/register** and enter your password. It should look something like this:
 
@@ -26,10 +28,16 @@ Note: The password in the picture is an example, please use a stronger password 
 
 After you've set the password press **enter** and you're done! 
 
-# Log in
+### Log in
 
 You'll need to log in with your password every time you join the server.
 
 Open the chat and type **/login**, followed by your password. Here's an example:
 
+![JustForFun Wiki](/img/getstarted/login.png)
+
 After you've entered the password press **enter** and you're done! 
+
+### I forgot my password! What can I do?
+
+Don't worry, our team can reset your password. Join our discord server [here](https://link.justforfunmc.net/discord) and create a support a ticket. Please specify your username and provide proof of ownership, otherwise **we will not reset your password!**

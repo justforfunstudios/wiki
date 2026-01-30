@@ -17,11 +17,11 @@ We use Cloudflare for our CDN and R2 for storage (such as resource packs).
 
 ### Game server
 
-This is where our Minecraft servers are hosted. We use a dedicated server, hosted in Germany.
+This is where our Minecraft servers are hosted. We use a dedicated server, hosted in Germany. 
 
 ### DDoS Protection
 
-Bad actors want to crash our server. We use TCP Shield in order to protect our server from DDos attacks.
+We use TCP Shield in order to protect our server from DDos attacks.
 
 
 ![JustForFun](/img/stuff/jffcherry.png)
