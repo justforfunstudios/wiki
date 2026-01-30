@@ -8,11 +8,11 @@ Due to JustForFun being a cracked (offline) server, we have to use a password-ba
 
 ### Creating a password
 
-If you're joining for the first time on JustForFun, you'll have to create a password. A repetive message will appear on the chat.![JustForFun Wiki](img/getstarted/register.png)
+If you're joining for the first time on JustForFun, you'll have to create a password. A repetive message will appear on the chat.![JustForFun Wiki](/img/getstarted/register.png)
 
 Press **T** on your keyboard to open the chat. Type **/register** and enter your password. It should look something like this:
 
-![JustForFun Wiki](img/getstarted/command.png)
+![JustForFun Wiki](/img/getstarted/command.png)
 
 :::danger WARNING
 
